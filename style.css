@@ -1,0 +1,28 @@
+.navbar-link.is-active,
+.navbar-link:focus,
+.navbar-link:focus-within,
+.navbar-link:hover,
+a.navbar-item.is-active,
+a.navbar-item:focus,
+a.navbar-item:focus-within,
+a.navbar-item:hover {
+  background-color: gray;
+  
+}
+
+.figure-logo {
+  margin: 0 auto;
+}
+
+.image.is-300x300 {
+  height: 300px;
+  width: 300px;
+}
+
+.bg-personal {
+  background-image: url(./ySuXtcK.png);
+  background-color: #25282a;
+  background-size: 1100px;
+  color: rgb(255 255 255 / 92%);
+  scroll-behavior: smooth;
+}
